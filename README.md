@@ -16,6 +16,7 @@ A simple Bank Management System built using Python.
 - Python
 - JSON
 
+## simple output
 - ===== BANK MANAGEMENT SYSTEM =====
 
 1. Create Account
